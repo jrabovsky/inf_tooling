@@ -1,5 +1,5 @@
 ## Description
-Slides for a presentation on Git and Github
+Slides for a presentation on infrastructure tools
 
 ## Prerequisites
 - Ruby 2.0.0 or greater (host machine)
