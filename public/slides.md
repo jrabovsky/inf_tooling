@@ -73,12 +73,21 @@ class: middle
 
 ---
 
-# Orchestration
-TODO
+.center[![Package Managers](package_managers.png)]
 
 ---
 
-.center[![Package Managers](package_managers.png)]
+# Orchestration
+* Tools that automate tasks outside the scope of individual machines
+  - Building machines
+  - Running distributed commands
+  - Scheduled jobs
+* Allows for composition of infrastructure
+* Some overlap between these and other types of tools
+
+---
+
+.center[![orchestration](orchestration.png)]
 
 ---
 
